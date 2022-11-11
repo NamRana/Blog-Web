@@ -3,13 +3,12 @@
 * A full stack Blog application created using React.js and Node.js in which everyone can use to read, write and edit Blogs. 
 * The frontend is designed with vanilla CSS integrated with SASS library.
 * The Application contains Home, Write and About us page for the user to interact. Every user can Log in and Sign up. 
-* MongoDB Database is used to save the details of user, posts and comments.
 * Also this app is fully mobile responsive.
 
 ***
 
 Packages Used in React.js: React router DOM, Redux toolkit, sass, axios, font-awesome icons <br />
-Packages Used in Node.js: Express.js, bcrypt, mongoose.
+Packages Used in Node.js: Express.js, bcrypt.
 
 ### Features
 1. Log in and Sign up for user.
